@@ -26,4 +26,4 @@ While designing, I used alot of resources, and I wanted to list them for anyone 
 - Corbin's guide to GitHub for beginners (Youtube)
 
 ## Final Note
-I had a ton of fun making this project and learned alot about so many things, from Heat-set inserts, to PCB design and even how to use github. I wanted to thank Hack-Club for making this oppertunity avaible for teens around the world.
+I had a ton of fun making this project and learned alot about so many things, from Heat-set inserts, to PCB design and even how to use github. I wanted to thank Hack-Club for making this opportunity available for teens around the world.
