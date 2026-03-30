@@ -1,8 +1,8 @@
 # Spotify-Macropad
-I finally made the Macropad!
+<img width="379" height="380" alt="Hi" src="https://github.com/user-attachments/assets/5907ab70-ba99-468c-a6ca-0ce12a6d8b99" />
 
 The Macropad here was designed with Ki-CAD for the PCB, and OnShape for the casing.
-## Inspiration
+
 ## Uses
 Desiged to control spotify via the app independently of main keyboard and without having the screen in focus.
 ## Components
