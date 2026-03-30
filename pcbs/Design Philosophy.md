@@ -1,4 +1,4 @@
-##Design Philosophy
+## Design Philosophy
 As this was my first time designing for a keyboard, my main priority was to keep things simple and ensure the parts fit in the case. This was especially imperative as I didn't have my own printer, making reprints harder.
 
 The case contains the PCB along with all components,and consists of two parts: the casing and the top attachment. When designing the case, the two things I had to keep in mind were the PCB dimensions (plus tolerances) and the USB hole so that the Macropad could connect to my device.
