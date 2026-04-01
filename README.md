@@ -2,6 +2,22 @@
 <img width="379" height="380" alt="Hi" src="https://github.com/user-attachments/assets/5907ab70-ba99-468c-a6ca-0ce12a6d8b99" />
 
 The Macropad here was designed with Ki-CAD for the PCB, and OnShape for the casing.
+## Images
+
+# Overall
+![Macropad](Assets/Macropad.PNG)
+
+# PCB
+![Schematic Print](Assets/Schematic%20Print-1.png)
+
+PCB Schematic
+
+![Routing](Assets/Routing.png)
+
+Final Picture of Routing
+
+# Case
+![Case](Assets/Case.PNG)
 
 ## Uses
 Desiged to control spotify via the app independently of main keyboard and without having the screen in focus.
