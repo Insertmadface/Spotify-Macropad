@@ -5,14 +5,14 @@ The Macropad here was designed with Ki-CAD for the PCB, and OnShape for the casi
 ## Images
 
 # Overall
-![Macropad](Assets/Macropad.PNG)
+![Macropad](Assets/Macropad.png)
 
 # PCB
 ![Schematic Print](Assets/Schematic%20Print-1.png)
 
 PCB Schematic
 
-![Macropad PCB Routing](Assets/Macropad%20PCB%20Routing.PNG)
+![Macropad PCB Routing](Assets/Macropad%20PCB%20Routing.png)
 
 Final Picture of Routing
 
