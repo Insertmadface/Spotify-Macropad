@@ -3,4 +3,4 @@ Considering the design specifications of a 9x9 matrix, it seemed that integratio
 
 ![Schematic Print](../Assets/Schematic%20Print-1.png)
 
-To retain the ability to add animations to the RGB LEDs later through a simple firmware update, It was also decided to use 8 SK6812E MINIs, under each key (apart from the encoder). The OLED was put towards the top of the 
+To retain the ability to add animations to the RGB LEDs later through a simple firmware update, It was also decided to use 8 SK6812E MINIs, under each key (apart from the encoder). The OLED was put towards the top of the board for asthetical reasons.
